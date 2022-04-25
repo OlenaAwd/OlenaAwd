@@ -1,4 +1,4 @@
-Hey there 👋, my name is Olena Avdiunina
+Hey there 👋, my name is Olena Avdiunina.
 
 [![Gmail Badge](https://img.shields.io/badge/-elena.avdiunina@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:elena.avdiunina@gmail.com)](mailto:elena.avdiunina@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/OlenaAwd-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olena-avdiunina-ba6983222/)](https://www.linkedin.com/in/olena-avdiunina-ba6983222/) 
